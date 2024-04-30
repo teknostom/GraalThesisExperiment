@@ -1,0 +1,1 @@
+./fullMain > FULL.res

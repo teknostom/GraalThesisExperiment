@@ -1,0 +1,1 @@
+./noMain > NO.res
